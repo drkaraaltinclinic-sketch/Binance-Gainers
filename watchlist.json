@@ -1,0 +1,4 @@
+{
+  "_readme": "Tickers here are continuously watched by the order-book spoof detector in the background — this runs on the server, independent of whether the dashboard tab is open. Add/remove via the dashboard's SPOOF WATCHLIST section, which commits changes here automatically.",
+  "tickers": []
+}

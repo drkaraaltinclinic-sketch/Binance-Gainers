@@ -1,0 +1,99 @@
+{
+  "_readme": "exchangeWallets below are verified Binance hot wallets, confirmed live on Etherscan/BscScan (label 'Binance' + 'Exchange'). watchedWallets is still empty on purpose — those are unlock-recipient addresses specific to whichever token you're scanning, and only you can add the right one per ticker. See README 'Wallet tracing setup' for how.",
+  "exchangeWallets": {
+    "binance_eth": {
+      "chainId": 1,
+      "addresses": [
+        "0x28C6c06298d514Db089934071355E5743bf21d60",
+        "0xF977814e90dA44bFA03b6295A0616a897441aceC",
+        "0x631fC1EA2270e98fBd9d92658eCE0f5a269Aa161",
+        "0xA180Fe01B906A1bE37BE6c534a3300785b20d947"
+      ]
+    },
+    "binance_bsc": {
+      "chainId": 56,
+      "addresses": [
+        "0xF977814e90dA44bFA03b6295A0616a897441aceC",
+        "0x631fC1EA2270e98fBd9d92658eCE0f5a269Aa161",
+        "0xeb2d2f1b8c558a40207669291fda468e50c8a0bb",
+        "0x4B16c5dE96EB2117bBE5fd171E4d203624B014aa"
+      ]
+    }
+  },
+  "watchedWallets": {
+    "BANK": {
+      "chainId": 56,
+      "addresses": [
+        "0xede6d2301178d364a5b011260694aa6688c3b11a"
+      ]
+    },
+    "_example_ARB": {
+      "chainId": 1,
+      "addresses": []
+    },
+    "ACE": {
+      "chainId": 56,
+      "addresses": [
+        "0xa399452ae18ba9cd4eb8f193cbc8ada67b14b71c",
+        "0x87917d879ba83ce3ada6e02d49a10c1ec1988062"
+      ]
+    },
+    "PROM": {
+      "chainId": 1,
+      "addresses": [
+        "0xe906445ad2761d7f2602e96e32d194172797112b"
+      ]
+    },
+    "HEMI": {
+      "chainId": 1,
+      "addresses": [
+        "0x694fa0816999da16e8783c0f5cde68c13a33c4e6",
+        "0x5eaa10f99e7e6d177ef9f74e519e319aa49f191e"
+      ]
+    },
+    "KAITO": {
+      "chainId": 8453,
+      "addresses": [
+        "0x50ffe6019c38e4135fe1f864e4a2561d819dfc7e"
+      ]
+    },
+    "ESPORTS": {
+      "chainId": 56,
+      "addresses": [
+        "0x99d4b3f50b14bfc67892c472f4053ee3483d87b9",
+        "0x49a0c2366936b115d6877438175ee4b97d6dab7c"
+      ]
+    },
+    "RE": {
+      "chainId": 1,
+      "addresses": [
+        "0xa600ec7db69dfcd21f19face5b209a55eab7a7c0"
+      ]
+    },
+    "ZAMA": {
+      "chainId": 1,
+      "addresses": [
+        "0x6aed4db2305b22cff494a15433975b7cc2732b28"
+      ]
+    },
+    "ZRO": {
+      "chainId": 1,
+      "addresses": [
+        "0x8f6449530606a9efddac42e05612427ddeba449c",
+        "0x744dbc48d11415ec5cb2f78609dea5e1e738da24"
+      ]
+    },
+    "TUT": {
+      "chainId": 56,
+      "addresses": [
+        "0xffa8db7b38579e6a2d14f9b347a9ace4d044cd54"
+      ]
+    },
+    "0G": {
+      "chainId": 1,
+      "addresses": [
+        "0x1ce17ec5fe114457a3867b33c0117c15f04ad56d"
+      ]
+    }
+  }
+}
